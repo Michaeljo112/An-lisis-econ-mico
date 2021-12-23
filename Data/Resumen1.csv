@@ -1,0 +1,441 @@
+﻿año;ADM1_ES;ADM2_ES;Ventas totales
+2019;Azuay;Camilo Ponce Enriquez;13774
+2019;Azuay;Chordeleg;3308
+2019;Azuay;Cuenca;2667539
+2019;Azuay;El Pan;92
+2019;Azuay;Giron;3870
+2019;Azuay;Guachapala;117
+2019;Azuay;Gualaceo;12507
+2019;Azuay;Nabon;1465
+2019;Azuay;Oña;88
+2019;Azuay;Paute;10386
+2019;Azuay;Pucara;1560
+2019;Azuay;San Fernando;264
+2019;Azuay;Santa Isabel;3811
+2019;Azuay;Sevilla de Oro;2045
+2019;Azuay;Sigsig;3081
+2019;Bolivar;Caluma;6833
+2019;Bolivar;Chillanes;1491
+2019;Bolivar;Chimbo;22578
+2019;Bolivar;Echeandia;1334
+2019;Bolivar;Guaranda;38048
+2019;Bolivar;Las Naves;807
+2019;Bolivar;San Miguel;8436
+2019;Cañar;Azogues;59572
+2019;Cañar;Biblian;36838
+2019;Cañar;Cañar;25752
+2019;Cañar;Deleg;398
+2019;Cañar;El Tambo;7456
+2019;Cañar;La Troncal;19922
+2019;Cañar;Suscal;992
+2019;Carchi;Bolivar;2638
+2019;Carchi;Espejo;3466
+2019;Carchi;Mira;1970
+2019;Carchi;Montufar;14453
+2019;Carchi;San Pedro de Huaca;493
+2019;Carchi;Tulcan;133544
+2019;Chimborazo;Alausi;8337
+2019;Chimborazo;Chambo;3770
+2019;Chimborazo;Chunchi;1466
+2019;Chimborazo;Colta;1847
+2019;Chimborazo;Cumanda;10419
+2019;Chimborazo;Guamote;2478
+2019;Chimborazo;Guano;5323
+2019;Chimborazo;Pallatanga;1794
+2019;Chimborazo;Penipe;7269
+2019;Chimborazo;Riobamba;305588
+2019;Cotopaxi;La Mana;14264
+2019;Cotopaxi;Latacunga;253725
+2019;Cotopaxi;Pangua;3362
+2019;Cotopaxi;Pujili;13670
+2019;Cotopaxi;Salcedo;36598
+2019;Cotopaxi;Saquisili;6244
+2019;Cotopaxi;Sigchos;4188
+2019;El Oro;Arenillas;11144
+2019;El Oro;Atahualpa;292
+2019;El Oro;Balsas;6662
+2019;El Oro;Chilla;58
+2019;El Oro;El Guabo;17409
+2019;El Oro;Huaquillas;30093
+2019;El Oro;Las Lajas;656
+2019;El Oro;Machala;387029
+2019;El Oro;Marcabeli;1130
+2019;El Oro;Pasaje;27484
+2019;El Oro;Piñas;29616
+2019;El Oro;Portovelo;10082
+2019;El Oro;Santa Rosa;57846
+2019;El Oro;Zaruma;14979
+2019;Esmeraldas;Atacames;13283
+2019;Esmeraldas;Eloy Alfaro;2097
+2019;Esmeraldas;Esmeraldas;582821
+2019;Esmeraldas;Muisne;725
+2019;Esmeraldas;Quininde;26917
+2019;Esmeraldas;Rioverde;3110
+2019;Esmeraldas;San Lorenzo;4742
+2019;Galapagos;Isabela;13046
+2019;Galapagos;San Cristobal;50172
+2019;Galapagos;Santa Cruz;146740
+2019;Guayas;Alfredo Baquerizo Moreno;2014
+2019;Guayas;Balao;494
+2019;Guayas;Balzar;4302
+2019;Guayas;Colimes;817
+2019;Guayas;Crnel. Marcelino Maridueña;5644
+2019;Guayas;Daule;151916
+2019;Guayas;Duran;208242
+2019;Guayas;El Triunfo;11042
+2019;Guayas;Empalme;15394
+2019;Guayas;Gnral. Antonio Elizalde;5572
+2019;Guayas;Guayaquil;13485519
+2019;Guayas;Isidro Ayora;1018
+2019;Guayas;Lomas de Sargentillo;1328
+2019;Guayas;Milagro;70175
+2019;Guayas;Naranjal;20844
+2019;Guayas;Naranjito;7811
+2019;Guayas;Nobol;6073
+2019;Guayas;Palestina;1144
+2019;Guayas;Pedro Carbo;7261
+2019;Guayas;Playas;26262
+2019;Guayas;Salitre;2818
+2019;Guayas;Samborondon;673474
+2019;Guayas;San Jacinto de Yaguachi;21295
+2019;Guayas;Santa Lucia;4491
+2019;Guayas;Simon Bolivar;1670
+2019;Imbabura;Antonio Ante;42305
+2019;Imbabura;Cotacachi;12566
+2019;Imbabura;Ibarra;333677
+2019;Imbabura;Otavalo;73597
+2019;Imbabura;Pimampiro;474
+2019;Imbabura;San Miguel de Urcuqui;12050
+2019;Loja;Calvas;5897
+2019;Loja;Catamayo;9175
+2019;Loja;Celica;1075
+2019;Loja;Chaguarpamba;718
+2019;Loja;Espindola;182
+2019;Loja;Gonzanama;1985
+2019;Loja;Loja;499443
+2019;Loja;Macara;2588
+2019;Loja;Olmedo;99
+2019;Loja;Paltas;1685
+2019;Loja;Pindal;3491
+2019;Loja;Puyango;3555
+2019;Loja;Quilanga;601
+2019;Loja;Saraguro;5780
+2019;Loja;Sozoranga;4
+2019;Loja;Zapotillo;1424
+2019;Los Rios;Baba;3175
+2019;Los Rios;Babahoyo;64142
+2019;Los Rios;Buena Fe;8846
+2019;Los Rios;Mocache;4174
+2019;Los Rios;Montalvo;9580
+2019;Los Rios;Palenque;163
+2019;Los Rios;Puebloviejo;2515
+2019;Los Rios;Quevedo;83147
+2019;Los Rios;Quinsaloma;1936
+2019;Los Rios;Urdaneta;1882
+2019;Los Rios;Valencia;19436
+2019;Los Rios;Ventanas;21989
+2019;Los Rios;Vinces;4790
+2019;Manabi;24 de Mayo;1255
+2019;Manabi;Bolivar;14503
+2019;Manabi;Chone;47867
+2019;Manabi;El Carmen;17325
+2019;Manabi;Flavio Alfaro;1435
+2019;Manabi;Jama;4908
+2019;Manabi;Jaramijo;13580
+2019;Manabi;Jipijapa;9852
+2019;Manabi;Junin;5515
+2019;Manabi;Manta;319440
+2019;Manabi;Montecristi;49662
+2019;Manabi;Olmedo;2510
+2019;Manabi;Pajan;1708
+2019;Manabi;Pedernales;12176
+2019;Manabi;Pichincha;1476
+2019;Manabi;Portoviejo;363097
+2019;Manabi;Puerto Lopez;3843
+2019;Manabi;Rocafuerte;6567
+2019;Manabi;San Vicente;2590
+2019;Manabi;Santa Ana;10043
+2019;Manabi;Sucre;14902
+2019;Manabi;Tosagua;6333
+2019;Morona Santiago;Gualaquiza;8828
+2019;Morona Santiago;Huamboya;261
+2019;Morona Santiago;Limon Indanza;747
+2019;Morona Santiago;Logroðo;1305
+2019;Morona Santiago;Morona;17630
+2019;Morona Santiago;Pablo Sexto;74
+2019;Morona Santiago;Palora;1406
+2019;Morona Santiago;San Juan Bosco;746
+2019;Morona Santiago;Santiago;3298
+2019;Morona Santiago;Sucua;5943
+2019;Morona Santiago;Taisha;457
+2019;Morona Santiago;Tiwintza;87
+2019;Napo;Archidona;4369
+2019;Napo;Carlos Julio Arosemena Tola;285
+2019;Napo;El Chaco;5138
+2019;Napo;Quijos;14224
+2019;Napo;Tena;24271
+2019;Orellana;Aguarico;4230
+2019;Orellana;La Joya de los Sachas;71028
+2019;Orellana;Loreto;2514
+2019;Orellana;Orellana;157813
+2019;Pastaza;Arajuno;254
+2019;Pastaza;Mera;13502
+2019;Pastaza;Pastaza;54835
+2019;Pastaza;Santa Clara;1490
+2019;Pichincha;Cayambe;94259
+2019;Pichincha;Mejia;77759
+2019;Pichincha;Pedro Moncayo;17107
+2019;Pichincha;Pedro Vicente Maldonado;4940
+2019;Pichincha;Puerto Quito;3543
+2019;Pichincha;Quito;20072804
+2019;Pichincha;Rumiðahui;296107
+2019;Pichincha;San Miguel de Los Bancos;10831
+2019;Santa Elena;La Libertad;64957
+2019;Santa Elena;Salinas;35895
+2019;Santa Elena;Santa Elena;48987
+2019;Santo Domingo de los Tsachilas;Santo Domingo;285725
+2019;Sucumbios;Cascales;1215
+2019;Sucumbios;Cuyabeno;11463
+2019;Sucumbios;Gonzalo Pizarro;1684
+2019;Sucumbios;Lago Agrio;89487
+2019;Sucumbios;Putumayo;2008
+2019;Sucumbios;Shushufindi;48108
+2019;Sucumbios;Sucumbios;325
+2019;Tungurahua;Ambato;783883
+2019;Tungurahua;Baños de Agua Santa;41647
+2019;Tungurahua;Cevallos;5235
+2019;Tungurahua;Mocha;403
+2019;Tungurahua;Patate;5168
+2019;Tungurahua;Quero;2343
+2019;Tungurahua;San Pedro de Pelileo;21399
+2019;Tungurahua;Santiago de Pillaro;7434
+2019;Tungurahua;Tisaleo;2484
+2019;Zamora Chinchipe;Centinela del Condor;1768
+2019;Zamora Chinchipe;Chinchipe;1273
+2019;Zamora Chinchipe;El Pangui;9494
+2019;Zamora Chinchipe;Nangaritza;128
+2019;Zamora Chinchipe;Palanda;1976
+2019;Zamora Chinchipe;Paquisha;706
+2019;Zamora Chinchipe;Yacuambi;159
+2019;Zamora Chinchipe;Yantzaza;37213
+2019;Zamora Chinchipe;Zamora;18170
+2020;Azuay;Camilo Ponce Enriquez;9313
+2020;Azuay;Chordeleg;3494
+2020;Azuay;Cuenca;2440606
+2020;Azuay;El Pan;369
+2020;Azuay;Giron;4119
+2020;Azuay;Guachapala;31
+2020;Azuay;Gualaceo;8487
+2020;Azuay;Nabon;805
+2020;Azuay;Oña;189
+2020;Azuay;Paute;10436
+2020;Azuay;Pucara;780
+2020;Azuay;San Fernando;84
+2020;Azuay;Santa Isabel;3168
+2020;Azuay;Sevilla de Oro;937
+2020;Azuay;Sigsig;1029
+2020;Bolivar;Caluma;1851
+2020;Bolivar;Chillanes;1355
+2020;Bolivar;Chimbo;23313
+2020;Bolivar;Echeandia;1132
+2020;Bolivar;Guaranda;31945
+2020;Bolivar;Las Naves;642
+2020;Bolivar;San Miguel;8887
+2020;Cañar;Azogues;52725
+2020;Cañar;Biblian;39078
+2020;Cañar;Cañar;27129
+2020;Cañar;Deleg;382
+2020;Cañar;El Tambo;6054
+2020;Cañar;La Troncal;14521
+2020;Cañar;Suscal;380
+2020;Carchi;Bolivar;1804
+2020;Carchi;Espejo;1444
+2020;Carchi;Mira;1099
+2020;Carchi;Montufar;7854
+2020;Carchi;San Pedro de Huaca;591
+2020;Carchi;Tulcan;124655
+2020;Chimborazo;Alausi;4782
+2020;Chimborazo;Chambo;2184
+2020;Chimborazo;Chunchi;1106
+2020;Chimborazo;Colta;1325
+2020;Chimborazo;Cumanda;10439
+2020;Chimborazo;Guamote;954
+2020;Chimborazo;Guano;1567
+2020;Chimborazo;Pallatanga;1485
+2020;Chimborazo;Penipe;7309
+2020;Chimborazo;Riobamba;270269
+2020;Cotopaxi;La Mana;9435
+2020;Cotopaxi;Latacunga;196465
+2020;Cotopaxi;Pangua;3687
+2020;Cotopaxi;Pujili;10841
+2020;Cotopaxi;Salcedo;31487
+2020;Cotopaxi;Saquisili;4672
+2020;Cotopaxi;Sigchos;3366
+2020;El Oro;Arenillas;7274
+2020;El Oro;Atahualpa;83
+2020;El Oro;Balsas;8263
+2020;El Oro;Chilla;3
+2020;El Oro;El Guabo;14169
+2020;El Oro;Huaquillas;23917
+2020;El Oro;Las Lajas;27
+2020;El Oro;Machala;336594
+2020;El Oro;Marcabeli;1059
+2020;El Oro;Pasaje;20228
+2020;El Oro;Piñas;22379
+2020;El Oro;Portovelo;14895
+2020;El Oro;Santa Rosa;47855
+2020;El Oro;Zaruma;8491
+2020;Esmeraldas;Atacames;5753
+2020;Esmeraldas;Eloy Alfaro;1911
+2020;Esmeraldas;Esmeraldas;623033
+2020;Esmeraldas;Muisne;189
+2020;Esmeraldas;Quininde;18014
+2020;Esmeraldas;Rioverde;4067
+2020;Esmeraldas;San Lorenzo;2916
+2020;Galapagos;Isabela;2237
+2020;Galapagos;San Cristobal;28157
+2020;Galapagos;Santa Cruz;43742
+2020;Guayas;Alfredo Baquerizo Moreno;2067
+2020;Guayas;Balao;892
+2020;Guayas;Balzar;3265
+2020;Guayas;Colimes;554
+2020;Guayas;Crnel. Marcelino Maridueña;4836
+2020;Guayas;Daule;120500
+2020;Guayas;Duran;196584
+2020;Guayas;El Triunfo;8744
+2020;Guayas;Empalme;11704
+2020;Guayas;Gnral. Antonio Elizalde;4635
+2020;Guayas;Guayaquil;11502483
+2020;Guayas;Isidro Ayora;357
+2020;Guayas;Lomas de Sargentillo;1183
+2020;Guayas;Milagro;63228
+2020;Guayas;Naranjal;15133
+2020;Guayas;Naranjito;6301
+2020;Guayas;Nobol;3219
+2020;Guayas;Palestina;740
+2020;Guayas;Pedro Carbo;6694
+2020;Guayas;Playas;19619
+2020;Guayas;Salitre;3053
+2020;Guayas;Samborondon;567526
+2020;Guayas;San Jacinto de Yaguachi;25717
+2020;Guayas;Santa Lucia;3320
+2020;Guayas;Simon Bolivar;522
+2020;Imbabura;Antonio Ante;35854
+2020;Imbabura;Cotacachi;8256
+2020;Imbabura;Ibarra;263521
+2020;Imbabura;Otavalo;58842
+2020;Imbabura;Pimampiro;313
+2020;Imbabura;San Miguel de Urcuqui;4651
+2020;Loja;Calvas;5100
+2020;Loja;Catamayo;8828
+2020;Loja;Celica;760
+2020;Loja;Chaguarpamba;1254
+2020;Loja;Espindola;91
+2020;Loja;Gonzanama;1563
+2020;Loja;Loja;424157
+2020;Loja;Macara;2069
+2020;Loja;Olmedo;2
+2020;Loja;Paltas;897
+2020;Loja;Pindal;3653
+2020;Loja;Puyango;3023
+2020;Loja;Quilanga;398
+2020;Loja;Saraguro;3818
+2020;Loja;Sozoranga;23
+2020;Loja;Zapotillo;1313
+2020;Los Rios;Baba;2885
+2020;Los Rios;Babahoyo;53820
+2020;Los Rios;Buena Fe;8579
+2020;Los Rios;Mocache;2233
+2020;Los Rios;Montalvo;8046
+2020;Los Rios;Palenque;188
+2020;Los Rios;Puebloviejo;2660
+2020;Los Rios;Quevedo;66725
+2020;Los Rios;Quinsaloma;2207
+2020;Los Rios;Urdaneta;1715
+2020;Los Rios;Valencia;15011
+2020;Los Rios;Ventanas;23365
+2020;Los Rios;Vinces;2670
+2020;Manabi;24 de Mayo;915
+2020;Manabi;Bolivar;13102
+2020;Manabi;Chone;34820
+2020;Manabi;El Carmen;14004
+2020;Manabi;Flavio Alfaro;1298
+2020;Manabi;Jama;3537
+2020;Manabi;Jaramijo;8894
+2020;Manabi;Jipijapa;6669
+2020;Manabi;Junin;3338
+2020;Manabi;Manta;249721
+2020;Manabi;Montecristi;42517
+2020;Manabi;Olmedo;571
+2020;Manabi;Pajan;1106
+2020;Manabi;Pedernales;9064
+2020;Manabi;Pichincha;934
+2020;Manabi;Portoviejo;279713
+2020;Manabi;Puerto Lopez;3355
+2020;Manabi;Rocafuerte;4672
+2020;Manabi;San Vicente;1649
+2020;Manabi;Santa Ana;7993
+2020;Manabi;Sucre;10522
+2020;Manabi;Tosagua;8155
+2020;Morona Santiago;Gualaquiza;2923
+2020;Morona Santiago;Huamboya;45
+2020;Morona Santiago;Limon Indanza;1147
+2020;Morona Santiago;Logroðo;573
+2020;Morona Santiago;Morona;12237
+2020;Morona Santiago;Pablo Sexto;22
+2020;Morona Santiago;Palora;2594
+2020;Morona Santiago;San Juan Bosco;157
+2020;Morona Santiago;Santiago;2084
+2020;Morona Santiago;Sucua;3152
+2020;Morona Santiago;Taisha;1466
+2020;Morona Santiago;Tiwintza;14
+2020;Napo;Archidona;1835
+2020;Napo;Carlos Julio Arosemena Tola;207
+2020;Napo;El Chaco;3834
+2020;Napo;Quijos;8200
+2020;Napo;Tena;15043
+2020;Orellana;Aguarico;2519
+2020;Orellana;La Joya de los Sachas;53221
+2020;Orellana;Loreto;1182
+2020;Orellana;Orellana;110954
+2020;Pastaza;Arajuno;56
+2020;Pastaza;Mera;10258
+2020;Pastaza;Pastaza;46336
+2020;Pastaza;Santa Clara;907
+2020;Pichincha;Cayambe;84246
+2020;Pichincha;Mejia;60493
+2020;Pichincha;Pedro Moncayo;17620
+2020;Pichincha;Pedro Vicente Maldonado;2593
+2020;Pichincha;Puerto Quito;2252
+2020;Pichincha;Quito;16337859
+2020;Pichincha;Rumiðahui;252036
+2020;Pichincha;San Miguel de Los Bancos;10667
+2020;Santa Elena;La Libertad;49094
+2020;Santa Elena;Salinas;29482
+2020;Santa Elena;Santa Elena;49023
+2020;Santo Domingo de los Tsachilas;Santo Domingo;223209
+2020;Sucumbios;Cascales;533
+2020;Sucumbios;Cuyabeno;5123
+2020;Sucumbios;Gonzalo Pizarro;1839
+2020;Sucumbios;Lago Agrio;62180
+2020;Sucumbios;Putumayo;4231
+2020;Sucumbios;Shushufindi;39825
+2020;Sucumbios;Sucumbios;208
+2020;Tungurahua;Ambato;650957
+2020;Tungurahua;Baños de Agua Santa;22634
+2020;Tungurahua;Cevallos;3050
+2020;Tungurahua;Mocha;396
+2020;Tungurahua;Patate;2998
+2020;Tungurahua;Quero;2507
+2020;Tungurahua;San Pedro de Pelileo;14412
+2020;Tungurahua;Santiago de Pillaro;3840
+2020;Tungurahua;Tisaleo;1746
+2020;Zamora Chinchipe;Centinela del Condor;913
+2020;Zamora Chinchipe;Chinchipe;1064
+2020;Zamora Chinchipe;El Pangui;11666
+2020;Zamora Chinchipe;Nangaritza;534
+2020;Zamora Chinchipe;Palanda;535
+2020;Zamora Chinchipe;Paquisha;573
+2020;Zamora Chinchipe;Yacuambi;293
+2020;Zamora Chinchipe;Yantzaza;27715
+2020;Zamora Chinchipe;Zamora;13831
