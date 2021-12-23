@@ -1,2 +1,2 @@
-# An-lisis-econ-mico
+# Geopandas
 Proyectos abiertos de análisis económico
