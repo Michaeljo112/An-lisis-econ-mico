@@ -1,7 +1,8 @@
 # Geopandas
-Proyectos abiertos de análisis económico
+Descripción: entorno virtual de Python creado para procesar y analizar información relacionada al sector servicios del Ecuador.
+Autor: Econ. Michael Peñafiel
 
-Script en extensión .ipynb (para ejecutar en Jupyter notebook) contenidos en el proyecto Geopandas.
+Detalle de scripts en extensión .ipynb (para ejecutar en Jupyter notebook) contenidos en el proyecto Geopandas:
 
 | .ipynb | Código para reproducir_descripción |
 | ------ | ---------------------------------- |
